@@ -1,0 +1,18 @@
+- [x] multiselect for options  
+- [x] finish basic operation
+- [x] move to new directory
+- [ ] comments  
+- [ ] upload to github
+- [ ] host  
+- [ ] add title and labels to plots   
+- [ ] remove double horizontal line break  
+- [ ] remove double spinners  
+- [ ] better readme
+- [ ] split into files  
+- [x] cache ticker options list and name options list  
+- [x] check cache size and limit   
+- [ ] add more stock support
+- [ ] get new csv everyday  
+- [ ] keep backup csv - for 1 week - advanced options - use backup csv  
+- [ ] clear cache at 11:59pm  
+- [ ] optimise  
