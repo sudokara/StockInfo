@@ -10,7 +10,7 @@ The app uses two types of caching provided by streamlit, singleton(for single sh
 - [ ] TODO: Explain this better  
 
 ## Running:
-Visit the [hosted instance]()  
+Visit the [hosted instance](https://sudokara-stockinfo-app-sx18xf.streamlit.app/)  
 
 Or  
 Run locally:  
