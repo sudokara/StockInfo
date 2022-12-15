@@ -1,5 +1,6 @@
 # StockInfo
-
+![GitHub](https://img.shields.io/github/license/sudokara/StockInfo)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ## Description:
 An app for data about various publicly listed companies. Currently supports NASDAQ only, more to be added.  
 Made in python using [streamlit](https://streamlit.io/).  
@@ -21,7 +22,7 @@ Run locally:
 6. If you face an error with the previous command, then pip is installing libraries outside your `PATH`. Use `python -m streamlit app.py` instead or add the necessary directory to `PATH`  
 
 Or(not representative of stability and performance)  
-
+![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fshields.io%2Fwebsite%2Fhttps%2Fsudokara-stockinfo-app-sx18xf.streamlit.app)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sudokara-stockinfo-app-sx18xf.streamlit.app/) 
 
 Known Bugs:  
