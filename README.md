@@ -10,9 +10,8 @@ The app uses two types of caching provided by streamlit, singleton(for single sh
 - [ ] TODO: Explain this better  
 
 ## Running:
-Visit the [hosted instance](https://sudokara-stockinfo-app-sx18xf.streamlit.app/)  
+It is recommended to run locally since the instance hosted on streamlit is quite slow due to resource sharing and is sometimes unusable   
 
-Or  
 Run locally:  
 1. Clone this repo with `git clone https://github.com/sudokara/StockInfo.git`  
 2. Change to the directory with `cd StockInfo`  
@@ -21,6 +20,9 @@ Run locally:
 5. Run the app with `streamlit run app.py`  
 6. If you face an error with the previous command, then pip is installing libraries outside your `PATH`. Use `python -m streamlit app.py` instead or add the necessary directory to `PATH`  
 
+Or(not representative of stability and performance)  
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sudokara-stockinfo-app-sx18xf.streamlit.app/) 
 
 Known Bugs:  
 - Loading data seems to be fast for famous companies like Apple, Microsoft and American Airlines but is painfully slow for obscure companies  
